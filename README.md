@@ -17,6 +17,11 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 |[Solution 4](./src/largest-palindrome.js)|[Tests 4](./src/__test__/largest-palindrome.test.js)|
 |--|--|
 
+## Problem 6
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+|[Solution 6](./src/sum-square-difference.js)|[Tests 6](./src/__test__/sum-square-difference.test.js)|
+|--|--|
+
 ## Authors
 | [<img src="https://avatars.githubusercontent.com/u/45442712" width="100px;"/><br /><sub><b>Jesus Garcia</b></sub>](https://github.com/jesuslgarciah)<br />|[<img src="https://avatars.githubusercontent.com/u/47506498" width="100px;"/><br /><sub><b>Esteban Ladino</b></sub>](https://github.com/Esteban-Ladino)<br />
 |-|-|
