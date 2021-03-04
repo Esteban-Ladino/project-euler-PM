@@ -24,7 +24,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 ## Problem 8
 Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
-|[Solution 8](./src/sum-square-difference.js)|[Tests 8](./src/__test__/sum-square-difference.test.js)|
+|[Solution 8](./src/largest-product.js)|[Tests 8](./src/__test__/largest-product.test.js)|
 |--|--|
 
 ## Authors
