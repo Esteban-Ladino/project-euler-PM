@@ -1,4 +1,4 @@
-export const largestPalindrome = () => {
+module.exports = function largestPalindrome(){
   let product = 0;
   let largest = 0;
   for (let i = 999; i >= 100; i--) {

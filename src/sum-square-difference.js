@@ -1,4 +1,4 @@
-export const sumSquareDifference = (limit) => {
+module.exports = function sumSquareDifference(limit){
   let sum = 0;
   let squaresSum = 0;
 

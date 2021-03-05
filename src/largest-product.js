@@ -1,4 +1,4 @@
-export const largestProduct = (num, limit) => {
+module.exports = function largestProduct(num, limit) {
   let adjacentDigits = 0;
   let digitsProduct = 0
   let greatestproduct = 0;

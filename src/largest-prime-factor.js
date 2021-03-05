@@ -1,4 +1,4 @@
-export const largestPrimeFactor = (num) => {
+module.exports = function largestPrimeFactor(num){
   let result = 0;
   let band = true;
   for (let i = 2; i < num; i++) {
