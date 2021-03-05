@@ -1,4 +1,4 @@
-module.exports = function evenFibonacci(limit) {
+export const evenFibonacci = (limit) => {
   let a = 2;
   let b = 3;
   let nextNumber = a;
