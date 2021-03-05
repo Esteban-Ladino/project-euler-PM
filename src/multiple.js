@@ -1,6 +1,6 @@
 const isMultiple = (num, divider) => num % divider === 0;
 
-const sumMultiples = (limit) => {
+module.exports = function sumMultiples(limit) {
   let totalSum = 0;
   for (let i = 1; i < limit; i++) {
     if (isMultiple(i, 3) || isMultiple(i, 5)) {
@@ -9,5 +9,3 @@ const sumMultiples = (limit) => {
   }
   return totalSum;
 };
-
-export default sumMultiples;

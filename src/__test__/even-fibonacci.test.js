@@ -1,4 +1,4 @@
-import { evenFibonacci } from '../even-fibonacci';
+const evenFibonacci = require("../even-fibonacci");
 
 it(`should find the sum of the even values 
  in Fibonacci which don't exceed 100`, () => {
