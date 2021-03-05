@@ -14,7 +14,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 ## Problem 3
 What is the largest prime factor of the number 600851475143 ?
-|[Solution 3](./src/largest-prime-factor.js)|[Tests 3](./src/__test__/largest-prime-factor.js)|
+|[Solution 3](./src/largest-prime-factor.js)|[Tests 3](./src/__test__/largest-prime-factor.test.js)|
 |--|--|
 
 ## Problem 4
