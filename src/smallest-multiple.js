@@ -12,4 +12,4 @@ module.exports = function smallestMultiple(n) {
     }
     smallestNum++;
   }
-}
+};
