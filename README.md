@@ -12,6 +12,11 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 |[Solution 2](./src/even-fibonacci.js)|[Tests 2](./src/__test__/even-fibonacci.test.js)|
 |--|--|
 
+## Problem 3
+What is the largest prime factor of the number 600851475143 ?
+|[Solution 3](./src/largest-prime-factor.js)|[Tests 3](./src/__test__/largest-prime-factor.js)|
+|--|--|
+
 ## Problem 4
 Find the largest palindrome made from the product of two 3-digit numbers.
 |[Solution 4](./src/largest-palindrome.js)|[Tests 4](./src/__test__/largest-palindrome.test.js)|
