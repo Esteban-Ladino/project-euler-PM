@@ -45,6 +45,12 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 |[Solution 8](./src/largest-product.js)|[Tests 8](./src/__test__/largest-product.test.js)|
 |--|--|
 
+## Problem 10
+
+Find the sum of all the primes below two million.
+|[Solution 10](./src/primes-sum.js)|[Tests 10](./src/__test__/primes-sum.test.js)|
+|--|--|
+
 ## Authors
 
 | [<img src="https://avatars.githubusercontent.com/u/45442712" width="100px;"/><br /><sub><b>Jesus Garcia</b></sub>](https://github.com/jesuslgarciah)<br /> | [<img src="https://avatars.githubusercontent.com/u/47506498" width="100px;"/><br /><sub><b>Esteban Ladino</b></sub>](https://github.com/Esteban-Ladino)<br /> |
