@@ -1,6 +1,6 @@
 # Project-euler-PM
 
-Created with CodeSandbox
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
 ## Problem 1
 
@@ -37,6 +37,12 @@ What is the smallest positive number that is evenly divisible by all of the numb
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 |[Solution 6](./src/sum-square-difference.js)|[Tests 6](./src/__test__/sum-square-difference.test.js)|
+|--|--|
+
+## Problem 7
+
+Find the 10001st prime number?
+|[Solution 7](./src/primeByPosition.js)|[Tests 7](./src/__test__/primeByPosition.test.js)|
 |--|--|
 
 ## Problem 8
