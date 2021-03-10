@@ -41,7 +41,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 ## Problem 7
 
-Find the 10001st prime number?
+Find the 10001st prime number
 |[Solution 7](./src/primeByPosition.js)|[Tests 7](./src/__test__/primeByPosition.test.js)|
 |--|--|
 
